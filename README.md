@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Jose 👻
 
-<!--
-**JosePujanteDev/JosePujanteDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Default_Programming_banner_with_java_python_c_artificial_intel_0](https://github.com/JosePujanteDev/JosePujanteDev/assets/152014280/4a4d41aa-eee0-4ab5-9a1a-ba10ebca015c)
 
-Here are some ideas to get you started:
+# Conocimientos 👽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python🐍
+- C# ⚙️
+- Java☕
+- Tecnologias de IA 🤖:
+ - TensorFlow
+ - Keras
+ - Pytorch
+ - Matplotlib
+ - Seaborn
+ - AutoML .NET
