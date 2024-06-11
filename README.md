@@ -8,9 +8,9 @@
 - C# ⚙️
 - Java☕
 - Tecnologias de IA 🤖:
- - TensorFlow
- - Keras
- - Pytorch
- - Matplotlib
- - Seaborn
- - AutoML .NET
+  + TensorFlow
+  + Keras
+  + Pytorch
+  + Matplotlib
+  + Seaborn
+  + AutoML .NET
