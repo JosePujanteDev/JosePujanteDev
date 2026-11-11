@@ -17,7 +17,7 @@
 - **Lenguajes**:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,java,html,css,js,php,angular&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,cs,java,html,css,js,php&perline=14" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 - **Tecnologias Conocidas**:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,azure,docker,fastapi,firebase,gradle,maven,mongodb,mysql,postgres,sklearn,unreal,unity,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,azure,docker,fastapi,springboot,firebase,gradle,maven,mongodb,mysql,postgres,sklearn,unreal,unity,wordpress&perline=14" />
   </a>
 </p>
 
