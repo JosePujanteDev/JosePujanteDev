@@ -27,6 +27,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,azure,docker,fastapi,spring,firebase,gradle,&perline=14" />
+    <br>
     <img src="https://skillicons.dev/icons?i=maven,mongodb,mysql,postgres,sklearn,unreal,unity,wordpress&perline=14" />
   </a>
 </p>
